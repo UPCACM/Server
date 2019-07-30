@@ -1,2 +1,10 @@
 docker/nginx/logs
 docker/nginx/www
+.bash_history
+.bashrc
+.cache/
+.config/
+.hplip/
+.profile
+.vim/
+.viminfo
