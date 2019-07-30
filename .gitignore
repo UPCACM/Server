@@ -1,5 +1,8 @@
 docker/nginx/logs
 docker/nginx/www
+vpn.env
+
+.wget-hsts
 .bash_history
 .bashrc
 .cache/
